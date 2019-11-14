@@ -1,0 +1,16 @@
+uuid: 685e300b-ccff-4b3d-8491-9f9e92f41797
+langcode: en
+status: true
+dependencies: {  }
+id: dev
+label: dev
+description: ''
+folder: ../config/dev
+module:
+  big_pipe: 0
+theme: {  }
+blacklist: {  }
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0
